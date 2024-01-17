@@ -1,0 +1,15 @@
+/workspaces/NewHorizon0/NewHorizon100/bin/Debug/net7.0/NewHorizon100
+/workspaces/NewHorizon0/NewHorizon100/bin/Debug/net7.0/NewHorizon100.deps.json
+/workspaces/NewHorizon0/NewHorizon100/bin/Debug/net7.0/NewHorizon100.runtimeconfig.json
+/workspaces/NewHorizon0/NewHorizon100/bin/Debug/net7.0/NewHorizon100.dll
+/workspaces/NewHorizon0/NewHorizon100/bin/Debug/net7.0/NewHorizon100.pdb
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.csproj.AssemblyReference.cache
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.AssemblyInfoInputs.cache
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.AssemblyInfo.cs
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.csproj.CoreCompileInputs.cache
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.dll
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/refint/NewHorizon100.dll
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.pdb
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/NewHorizon100.genruntimeconfig.cache
+/workspaces/NewHorizon0/NewHorizon100/obj/Debug/net7.0/ref/NewHorizon100.dll
